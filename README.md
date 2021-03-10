@@ -1,8 +1,7 @@
+# SillyCon
+### Algorithmic Trading Assistant
 
 ![Image](image/readme_background.png)
-
-
-# SillyCon App
 
 
 ## Job description
