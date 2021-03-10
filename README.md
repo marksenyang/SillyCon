@@ -38,6 +38,7 @@ A web app (or Chatbot) where a user can choose to analyse the historical crypto 
 
 
 ## User Input
+![Image](https://github.com/marksenyang/SillyCon/blob/main/image/user_input.png?raw=true)
 
 - A drop-down list consisting two source selections:
 
@@ -54,6 +55,7 @@ A web app (or Chatbot) where a user can choose to analyse the historical crypto 
      
 
 ## App Output
+![Image](https://github.com/marksenyang/SillyCon/blob/main/image/app_output.png?raw=true)
 
 The app has an interface which provides the following output plots across multiple tabs:
 
