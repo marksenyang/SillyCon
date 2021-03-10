@@ -1,8 +1,5 @@
-# SillyCon
-### Algorithmic Trading Assistant
-
+# SillyCon - Algorithmic Trading Assistant
 ![Image](image/readme_background.png)
-
 
 ## Job description
 
