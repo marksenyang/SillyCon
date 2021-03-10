@@ -1,24 +1,12 @@
 # SillyCon - Algorithmic Trading Assistant
 ![Image](image/readme_background.png)
 
-## Job description
-
-- Shiva = General Insights (Historical), Word Cloud, README, Presentation
-
-- Patricia = AWS Lex chatbot, Dashboard Concepts, Presentation
-
-- Marianna = API Data Retrieval (Pickles), Data Processing, Google Trends, Presentation
-
-- Fil = Main App, Data Processing (Random Forest price only), Dashboard, README, Presentation
-
-- Mark = Main App, Data Processing (Fixed, RNN, RF), README, Presentation
+## Introduction
+SillyCon is an algorithmic trading bot that uses Elon Musk’s tweets and machine learning to predict cryptocurrencies’ price movement, then trades accordingly and backtests its performance.
 
 
 ## How to run the app
-
-Option 1 - Type `python3 main.py` in Terminal to launch the dashboard
-
-Option 2 - Copy `main.py` file into a Jupyter Lab notebook (ipynb) file and run to launch the dashboard
+`python3 main.py` 
 
 
 ## Background
@@ -27,10 +15,6 @@ Near the inception of Fintech Project Two, Bitcoin and Dogecoin prices skyrocket
 
 ## Hypothesis
 Silicon Valley tech entrepreneurs tweets (e.g. from Elon Musk) have a high correlation to crypto price movements, and that this movement can be successfully predicted with machine learning models. 
-
-
-## Goal
-A web app (or Chatbot) where a user can choose to analyse the historical crypto price correlation to what a selected tech entrepreneur has said recently, and get an auto trading strategy based on it.
 
 
 ## User Input
