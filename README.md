@@ -1,5 +1,5 @@
 
-![Image](https://raw.githubusercontent.com/filprager/fintech_project_two/layout/image/Etm4yFZUcAAoN5u.jpeg)
+![Image](https://github.com/marksenyang/SillyCon/blob/main/image/readme_background.png?raw=true)
 
 
 # SillyCon App
