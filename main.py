@@ -188,4 +188,5 @@ interface = pn.Column(
                     )
 
 # Launch the app in browser
+interface.servable()
 interface.show()

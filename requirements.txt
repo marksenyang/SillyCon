@@ -1,0 +1,7 @@
+panel
+pandas
+hvplot
+numpy
+pathlib
+scikit-learn
+nbconvert
