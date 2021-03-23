@@ -6,7 +6,7 @@ SillyCon is an algorithmic trading bot that uses Elon Musk’s tweets and machin
 
 
 ## How to run the app
-Option 1: http://sillycon.herokuapp.com
+Option 1: [sillycon.herokuapp.com](https://sillycon.herokuapp.com)
 
 Option 2: `python3 main.py` 
 
